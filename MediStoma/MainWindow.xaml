@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:MediStoma"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Background="#FFC1C1C1">
 
     </Grid>
 </Window>
