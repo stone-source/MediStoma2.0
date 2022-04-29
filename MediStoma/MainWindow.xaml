@@ -5,27 +5,27 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MediStoma"
         mc:Ignorable="d"
-        Title="Główne okno programu" Height="450" Width="800" Background="White">
-    <Grid Background="White">
-        <Image HorizontalAlignment="Left" Height="395" Margin="10,10,0,0" VerticalAlignment="Top" Width="395" Source="/main-menu.png"/>
-        <Button x:Name="btnKartoteka" Height="100" Width="270" Margin="480,10,50,324">
-            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
-                <Image Height="81" Width="118" Source="/patient.png"/>
-                <TextBlock><Run Text="Kartoteka"/></TextBlock>
-            </StackPanel>
+        Title="Główne okno programu" Height="600" Width="800" Background="White" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image x:Name="imgBackground" HorizontalAlignment="Left" Height="502" Margin="10,10,0,0" VerticalAlignment="Top" Width="505" Source="/main-menu.png"/>
+        <Button x:Name="btnKartoteka" Height="50" Width="200" Click="btnKartoteka_Click" Margin="590,10,10,524">
+            <DockPanel>
+                <Image DockPanel.Dock="Left" Source="/patient.png"></Image>
+                <TextBlock DockPanel.Dock="Right">Gabinet</TextBlock>
+            </DockPanel>
         </Button>
-        <Button x:Name="btnGabinet" Height="100" Width="270" Margin="480,128,50,206">
+        <Button x:Name="btnGabinet" Height="50" Width="200" Margin="590,130,10,404" Click="btnGabinet_Click">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
-                <Image Height="81" Width="118" Source="/dental-care.png"/>
+                <Image Height="81" Width="118" Source="/dental-care.png" Stretch="None" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
                 <TextBlock><Run Text="Gabinet"/></TextBlock>
             </StackPanel>
         </Button>
-        <Button x:Name="btnWyjscie" Height="100" Width="270" Margin="480,262,50,72">
+        <Button x:Name="btnWyjscie" Height="50" Width="200" Click="btnWyjscie_Click" Margin="590,252,10,282">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
-                <Image Source="/exit.png" Height="81" Width="118"/>
+                <Image Height="34" Width="72" Source="/exit.png" Stretch="None"/>
                 <TextBlock><Run Text="Wyjście"/></TextBlock>
             </StackPanel>
         </Button>
-        <Label x:Name="lblTytulAplikacji" Content="MEDISTOMA" HorizontalAlignment="Center" Margin="0,362,0,0" VerticalAlignment="Bottom" Width="780" Height="57" FontSize="36" FontWeight="Thin" HorizontalContentAlignment="Center" Background="{x:Null}" Foreground="#FF0096C7"/>
+        <Label x:Name="lblTytul" Content="MEDISTOMA" HorizontalAlignment="Left" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="679" Height="57" FontSize="36" FontWeight="Thin" HorizontalContentAlignment="Center" Background="{x:Null}" Foreground="#FF0096C7" Grid.ColumnSpan="2"/>
     </Grid>
 </Window>

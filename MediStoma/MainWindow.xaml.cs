@@ -24,5 +24,20 @@ namespace MediStoma
         {
             InitializeComponent();
         }
+
+        private void btnGabinet_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnWyjscie_Click(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Application.Current.Shutdown();
+        }
+
+        private void btnKartoteka_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
