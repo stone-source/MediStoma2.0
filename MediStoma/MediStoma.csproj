@@ -7,4 +7,18 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="dental-care.png" />
+    <None Remove="exit.png" />
+    <None Remove="main-menu.png" />
+    <None Remove="patient.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="dental-care.png" />
+    <Resource Include="exit.png" />
+    <Resource Include="main-menu.png" />
+    <Resource Include="patient.png" />
+  </ItemGroup>
+
 </Project>
