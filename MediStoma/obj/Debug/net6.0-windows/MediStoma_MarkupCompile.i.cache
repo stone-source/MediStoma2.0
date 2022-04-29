@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\App.xaml
-11407045341
+2476843988
 
-5-1599345215
+6-1153936530
 194-1951243044
-MainWindow.xaml;
+AppModules\Patient_PF\PacjenciEwidencja_f.xaml;MainWindow.xaml;
 
 False
 
