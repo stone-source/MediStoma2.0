@@ -19,3 +19,5 @@ C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\ne
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\MediStoma.pdb
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\MediStoma.genruntimeconfig.cache
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\ref\MediStoma.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\Patient_PF\PacjenciEwidencja_f.g.cs
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\Patient_PF\PacjenciEwidencja_f.baml

@@ -27,5 +27,6 @@
             </StackPanel>
         </Button>
         <Label x:Name="lblTytul" Content="MEDISTOMA" HorizontalAlignment="Left" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="679" Height="57" FontSize="36" FontWeight="Thin" HorizontalContentAlignment="Center" Background="{x:Null}" Foreground="#FF0096C7" Grid.ColumnSpan="2"/>
+        <Frame x:Name="frframe" Content="Frame" Margin="531,396,0,0"/>
     </Grid>
 </Window>

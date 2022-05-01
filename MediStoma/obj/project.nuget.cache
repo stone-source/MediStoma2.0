@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mC6yCpTS3ojobD2Pg+E2TZXlrOfW+H7hccdDE83sjn5dcXxKub6gdGbxmeiRjc8nCp7qrOK9YPzEbRONlgkoSQ==",
+  "dgSpecHash": "rID1HthYx6DYCxf2OQ88B+S6Ymtu2mLMR6qQyrKKrF07ZRe6Si/9sBpvBs8/fkhw3AHlpjlRM5cg4zyTtv0yIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sebastian\\Documents\\Repozytoria\\GIT\\MediStoma2.0\\MediStoma\\MediStoma.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

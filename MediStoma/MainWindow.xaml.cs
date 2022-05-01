@@ -27,7 +27,7 @@ namespace MediStoma
 
         private void btnGabinet_Click(object sender, RoutedEventArgs e)
         {
-
+            
         }
 
         private void btnWyjscie_Click(object sender, RoutedEventArgs e)
@@ -37,7 +37,7 @@ namespace MediStoma
 
         private void btnKartoteka_Click(object sender, RoutedEventArgs e)
         {
-
+            
         }
     }
 }
