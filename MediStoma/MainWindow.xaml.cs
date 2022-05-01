@@ -32,7 +32,7 @@ namespace MediStoma
 
         private void btnWyjscie_Click(object sender, RoutedEventArgs e)
         {
-            System.Windows.Application.Current.Shutdown();
+            this.Close();
         }
 
         private void btnKartoteka_Click(object sender, RoutedEventArgs e)
