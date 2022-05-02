@@ -8,7 +8,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Resource Include="Obrazki\Ikony\64x64\dental-care.png" />
+    <Resource Include="Obrazki\Ikony\64x64\exit.png" />
+    <Resource Include="Obrazki\Ikony\64x64\home.png" />
+    <Resource Include="Obrazki\Ikony\64x64\patient.png" />
+    <Resource Include="Obrazki\Tła\main-menu.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Npgsql" Version="6.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<Folder Include="AppModules\Pacjent_PF\" />
+	<Folder Include="AppModules\DatabaseConnection\" />
   </ItemGroup>
 
 </Project>

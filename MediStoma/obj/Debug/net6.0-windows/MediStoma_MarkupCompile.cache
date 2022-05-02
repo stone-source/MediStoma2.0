@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\App.xaml
-2476843988
+3498068948
 
-4-787760872
+6-663028135
 195-802568028
-AppModules\Patient_PF\PacjenciEwidencja_f.xaml;MainWindow.xaml;
+AppModules\Gabinet_PF\GabinetEwidencja_f.xaml;AppModules\Pacjent_PF\PacjenciEwidencja_f.xaml;Startowa_f.xaml;
 
 False
 

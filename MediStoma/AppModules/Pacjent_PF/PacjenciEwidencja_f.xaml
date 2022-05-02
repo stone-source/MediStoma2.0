@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="PacjenciEwidencja_f" Height="450" Width="800">
     <Grid>
-        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="51,183,94,-98"/>
 
     </Grid>
 </Window>

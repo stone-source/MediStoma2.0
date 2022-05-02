@@ -7,15 +7,21 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="AppModules\Patient_PF\PacjenciEwidencja_f.xaml.cs">
+    <Compile Update="AppModules\Gabinet_PF\GabinetEwidencja_f.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AppModules\Pacjent_PF\PacjenciEwidencja_f.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="AppModules\Patient_PF\PacjenciEwidencja_f.xaml">
+    <Page Update="AppModules\Gabinet_PF\GabinetEwidencja_f.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="AppModules\Pacjent_PF\PacjenciEwidencja_f.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Startowa_f.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
