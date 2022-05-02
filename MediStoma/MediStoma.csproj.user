@@ -7,6 +7,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AppModules\App_PF\MotherForm_f.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="AppModules\Gabinet_PF\GabinetEwidencja_f.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -15,6 +18,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="AppModules\App_PF\MotherForm_f.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="AppModules\Gabinet_PF\GabinetEwidencja_f.xaml">
       <SubType>Designer</SubType>
     </Page>

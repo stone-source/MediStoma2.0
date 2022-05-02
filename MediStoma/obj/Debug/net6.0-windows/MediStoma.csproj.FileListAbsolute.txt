@@ -25,3 +25,5 @@ C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\ne
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\ref\MediStoma.dll
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\Gabinet_PF\GabinetEwidencja_f.g.cs
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\Gabinet_PF\GabinetEwidencja_f.baml
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\App_PF\MotherForm_f.g.cs
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\App_PF\MotherForm_f.baml

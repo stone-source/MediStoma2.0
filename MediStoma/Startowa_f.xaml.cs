@@ -3,6 +3,7 @@ using Npgsql;
 using System.Data;
 using System.Windows.Media;
 using MediStoma.AppModules.DatabaseConnection;
+using MediStoma.AppModules.App_PF;
 
 namespace MediStoma
 {
@@ -11,7 +12,7 @@ namespace MediStoma
         public MainWindow()
         {
             InitializeComponent();
-            OkreslStanPolaczenia();         
+            OkreslStanPolaczenia();
         }
 
         private void OkreslStanPolaczenia()
@@ -27,7 +28,7 @@ namespace MediStoma
 
                     //throw new System.Exception("Błąd otwarcia połączenia do bazy danych");
                 }
-                
+
                 if (connection.State == ConnectionState.Open)
                 {
                     lblWynikStatusuPolaczenia.Content = "OK";
@@ -38,7 +39,9 @@ namespace MediStoma
 
         private void btnGabinet_Click(object sender, RoutedEventArgs e)
         {
-            
+            MotherForm_f form = new MotherForm_f();
+            form.Show();
+            this.Close();
         }
 
         private void btnWyjscie_Click(object sender, RoutedEventArgs e)
@@ -48,7 +51,7 @@ namespace MediStoma
 
         private void btnKartoteka_Click(object sender, RoutedEventArgs e)
         {
-            
+
         }
     }
 }

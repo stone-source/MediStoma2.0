@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Główne okno programu" Height="600" Width="800" Background="White" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
-        <Button x:Name="btnKartoteka" Height="50" Width="200" Click="btnKartoteka_Click" Margin="590,10,10,524">
+        <Button x:Name="btnKartoteka" Height="50" Width="200" Click="btnKartoteka_Click" Margin="561,32,39,502">
             <DockPanel>
                 <Image DockPanel.Dock="Left" Source="/Icons/64x64/patient.png"></Image>
                 <TextBlock DockPanel.Dock="Right">Gabinet</TextBlock>

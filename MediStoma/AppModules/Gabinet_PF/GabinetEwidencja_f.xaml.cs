@@ -10,18 +10,24 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace MediStoma.AppModules.Gabinet_PF
 {
     /// <summary>
-    /// Logika interakcji dla klasy Window1.xaml
+    /// Logika interakcji dla klasy GabinetEwidencja_f.xaml
     /// </summary>
-    public partial class Window1 : Window
+    public partial class GabinetEwidencja_f : Page
     {
-        public Window1()
+        public GabinetEwidencja_f()
         {
             InitializeComponent();
+        }
+
+        public static implicit operator ContentControl(GabinetEwidencja_f v)
+        {
+            throw new NotImplementedException();
         }
     }
 }
