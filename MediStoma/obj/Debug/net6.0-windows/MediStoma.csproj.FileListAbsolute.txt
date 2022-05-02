@@ -27,3 +27,16 @@ C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\ne
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\Gabinet_PF\GabinetEwidencja_f.baml
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\App_PF\MotherForm_f.g.cs
 C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\obj\Debug\net6.0-windows\AppModules\App_PF\MotherForm_f.baml
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Sebastian\Documents\Repozytoria\GIT\MediStoma2.0\MediStoma\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
